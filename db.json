@@ -1,4 +1,5 @@
-{ "bodies": [
+{ "bodies": {
+    "bodies": [
     {
         "id": 0,
         "type": "star",
@@ -143,7 +144,7 @@
         "desc": "Neptunus är den åttonde planeten från solen. Neptunus är en så kallad gasjätte, och har fått sitt namn efter havsguden Neptunus i romersk mytologi. Den 24 augusti 2006, då Internationella astronomiska unionen beslutade att Pluto inte längre var en planet, blev Neptunus den yttersta planeten i solsystemet.",
         "moons": ["Triton", "Sao", "Hippocamp", "Proteus", "Despina", "Nereid", "Thalassa", "Galatea", "Neso", "Halimede", "Larissa","Psamathe", "Naiad", "Laomedeia"]
     }
-  ],
+  ]},
  "keys": {
     "key": "solaris-7BTxHCyHhzIME5TI"
  }
